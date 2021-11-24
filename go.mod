@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	gitee.com/chunanyong/dm v1.8.3
-	gorm.io/gorm v1.21.16
+	gorm.io/gorm v1.22.3
 )
